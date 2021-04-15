@@ -335,7 +335,7 @@ def dos():
        fish()
     if n=='0':
         exit()
-    if q=='y':
+if q=='y':
     yasso_main()
         
 
