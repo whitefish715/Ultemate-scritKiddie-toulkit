@@ -1,8 +1,4 @@
 import os
-os.system('sudo pip install python-pip')
-import nmap
-
-
 
 q=input('                       PRESS [y]\n')
 l=input('do u want to upgrade & update ur system ? [y/n]')
