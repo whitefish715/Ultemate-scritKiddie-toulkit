@@ -1,6 +1,7 @@
 import os
+os.system('sudo pip install python-pip')
 import nmap
-yasso=nmap.PortScanner()
+
 
 print('***********************STARTING************************')
 print('*******************************************************')
